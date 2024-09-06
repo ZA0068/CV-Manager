@@ -9,8 +9,6 @@ completedColumns:
 
 ## Backlog
 
-- [write-text-into-the-window](tasks/write-text-into-the-window.md)
-- [save-and-retrieve-texts-in-and-from-a-file](tasks/save-and-retrieve-texts-in-and-from-a-file.md)
 - [compile-to-pdf](tasks/compile-to-pdf.md)
 - [add-text-font-and-size-manipulation](tasks/add-text-font-and-size-manipulation.md)
 - [preview](tasks/preview.md)
@@ -25,8 +23,11 @@ completedColumns:
 
 ## Todo
 
-- [create-window-in-python](tasks/create-window-in-python.md)
-
 ## In Progress
 
+- [save-and-retrieve-texts-in-and-from-a-file](tasks/save-and-retrieve-texts-in-and-from-a-file.md)
+
 ## Done
+
+- [create-window-in-python](tasks/create-window-in-python.md)
+- [write-text-into-the-window](tasks/write-text-into-the-window.md)

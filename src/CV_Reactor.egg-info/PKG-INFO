@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: CV_Reactor
+Version: 0.1
+Requires-Dist: PyQt5
+Requires-Dist: reportlab
+Requires-Dist: python-docx
